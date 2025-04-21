@@ -8,10 +8,12 @@ Welcome to my **Okta IAM Lab Series**, where I explore real-world Identity and A
 
 ## 📂 Lab Index
 
+
 | Lab | Title | Key Concepts |
 |-----|-------|--------------|
 | ✅ 1 | [Managing Identity in Okta: User Definition & Role Assignment](https://github.com/markwhyce-svg/okta-user-management-lab) | Manual user creation, CSV import, admin role assignment, lifecycle logs |
-| ✅ 2 | [Organizing Users with Groups in Okta](https://github.com/markwhyce-svg/okta-organize-users-lab) | Group creation, manual & rule-based membership, Okta Expression Language |
+| ✅ 2 | [Organizing Users with Groups in Okta](https://github.com/markwhyce-svg/okta-organize-users-lab) | Group creation, rule-based membership, Okta Expression Language |
+| ✅ 3 | [Implementing Security Policies in Okta](https://github.com/markwhyce-svg/okta-security-policies-lab) | IP zones, MFA rules, session & password policies, geo-restrictions |
 
 ---
 
