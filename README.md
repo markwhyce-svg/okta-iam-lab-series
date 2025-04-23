@@ -19,11 +19,17 @@ Welcome to my **Okta IAM Lab Series**, where I explore real-world Identity and A
 
 ## 💼 Skills Demonstrated
 
+## 💼 Skills Demonstrated
+
 - 👤 User Provisioning & Lifecycle Management
 - 👥 Group Creation & Rule-Based Membership
 - 🧩 Okta Expression Language (EL)
 - 🛡️ Role Assignment & Privilege Delegation
-- 📊 System Log Monitoring & Audit Trail
+- 🌐 IP Zones & Dynamic Geo-Access Control
+- 🔐 MFA Enrollment & Enforcement Policies
+- 🔁 Session Policy & Time-Based Access Control
+- 🔑 Password Policy Enforcement & Recovery Restrictions
+- 📊 System Log Monitoring & Authentication Analysis
 - 📁 CSV-Based Bulk User Import
 - 🔒 Identity-Based Access Structuring
 
