@@ -14,11 +14,6 @@ Welcome to my **Okta IAM Lab Series**, where I explore real-world Identity and A
 | ✅ 1 | [Managing Identity in Okta: User Definition & Role Assignment](https://github.com/markwhyce-svg/okta-user-management-lab) | Manual user creation, CSV import, admin role assignment, lifecycle logs |
 | ✅ 2 | [Organizing Users with Groups in Okta](https://github.com/markwhyce-svg/okta-organize-users-lab) | Group creation, rule-based membership, Okta Expression Language |
 | ✅ 3 | [Implementing Security Policies in Okta](https://github.com/markwhyce-svg/okta-security-policies-lab) | IP zones, MFA rules, session & password policies, geo-restrictions |
-| ✅ 4 | [SSO with Azure AD (OAuth2 & SAML)](./project4-sso) | OAuth2, SAML, federated identity, app integration |
-| ✅ 5 | [Group-Based Licensing & Lifecycle Automation](./project5-group-licensing) | Dynamic groups, license automation, user onboarding |
-| ✅ 6 | [IAM Audit, Monitoring & Risk Alerts](./project6-iam-audit) | Azure AD logs, sign-in risk detection, alerting | 
-
-
 
 ---
 
