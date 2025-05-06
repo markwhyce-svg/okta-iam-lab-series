@@ -19,8 +19,6 @@ Welcome to my **Okta IAM Lab Series**, where I explore real-world Identity and A
 
 ## 💼 Skills Demonstrated
 
-## 💼 Skills Demonstrated
-
 - 👤 User Provisioning & Lifecycle Management
 - 👥 Group Creation & Rule-Based Membership
 - 🧩 Okta Expression Language (EL)
