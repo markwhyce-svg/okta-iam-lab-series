@@ -1,12 +1,12 @@
-# 🔐 Okta IAM Lab Series
+# 🔐 Okta IAM Project Series
 
-Welcome to my **Okta IAM Lab Series**, where I explore real-world Identity and Access Management concepts using **Okta**. These hands-on labs demonstrate my understanding of user provisioning, group-based access control, role assignment, and policy enforcement — core components of a modern IAM strategy.
+Welcome to my **Okta IAM Project Series**, where I explore real-world Identity and Access Management concepts using **Okta**. These hands-on labs demonstrate my understanding of user provisioning, group-based access control, role assignment, and policy enforcement — core components of a modern IAM strategy.
 
-> 💡 This lab series is part of my journey into a career in IAM, Security Operations, Vulnerability Management, and Cloud Security.
+> 💡 This project series is part of my journey into a career in IAM, Security Operations, Vulnerability Management, and Cloud Security.
 
 ---
 
-## 📂 Lab Index
+## 📂 Project Index
 
 
  Project | Title | Key Concepts |
